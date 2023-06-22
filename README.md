@@ -2,6 +2,8 @@
 
 https://angular.io/guide/template-syntax
 
+https://stackblitz.com/~/github.com/luiscoco/AngularTemplate_Sample1-Syntax
+
 In Angular, the template syntax refers to the way you write and interact with the HTML templates in your Angular components. The template syntax includes a set of directives, interpolation, binding, and other features that allow you to build dynamic and interactive user interfaces.
 
 In Angular, a template is a chunk of HTML. Use special syntax within a template to build on many of Angular's features.
